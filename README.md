@@ -13,6 +13,16 @@ A hands-on notebook for AI precipitation downscaling, made for beginners. You ru
 
 To keep your changes, use *File > Save a copy in Drive*.
 
+## Keep your work on GitHub (optional)
+
+GitHub is not needed to run the notebook. If you have an account, you can:
+
+- **Star this repo** (top right) so you can find it again.
+- **Save your run** to your own repository: in Colab, choose *File > Save a copy in GitHub*. The repository must exist first; make one at [github.com/new](https://github.com/new) with *Add a README file* ticked.
+- **Add your GIF** to that repository with *Add file > Upload files*.
+
+The last section of the notebook walks through these steps, including making an account.
+
 ## Files
 
 | File | What it does |
